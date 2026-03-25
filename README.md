@@ -44,7 +44,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Tech Stack
 
-- **Next.js 14** — full-stack React framework
+- **Next.js 16** — full-stack React framework
 - **TypeScript** — type safety
 - **Gemini 2.0 Flash** — AI role-fit justification
 - **pdf-parse** — PDF text extraction
